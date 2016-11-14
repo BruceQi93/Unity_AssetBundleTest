@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cube
+      Dependencies:
+        Dependency_0: red
+    Info_1:
+      Name: red
+      Dependencies: {}

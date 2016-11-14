@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8A4A171A-544E-80AB-35E4-75CB8D3EA656}") = "Unity_AssetBundleTest", "Assembly-CSharp.csproj", "{6B4A697D-44C8-98BD-A774-DE1AC910D97A}"
+EndProject
+Project("{8A4A171A-544E-80AB-35E4-75CB8D3EA656}") = "Unity_AssetBundleTest", "Assembly-CSharp-Editor.csproj", "{8D5E4FF1-5AF1-C35A-5A75-F2F30EEAB536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B4A697D-44C8-98BD-A774-DE1AC910D97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4A697D-44C8-98BD-A774-DE1AC910D97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4A697D-44C8-98BD-A774-DE1AC910D97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4A697D-44C8-98BD-A774-DE1AC910D97A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D5E4FF1-5AF1-C35A-5A75-F2F30EEAB536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5E4FF1-5AF1-C35A-5A75-F2F30EEAB536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5E4FF1-5AF1-C35A-5A75-F2F30EEAB536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5E4FF1-5AF1-C35A-5A75-F2F30EEAB536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
